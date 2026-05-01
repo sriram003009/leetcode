@@ -1,4 +1,5 @@
 # 💻 DSA Best Practice Questions (Blind 75 / Grind 75 Inspired)
+# Check this -> https://leetcode.com/discuss/post/460599/blind-75-leetcode-questions-by-krishnade-9xev/
 
 👋 Inspired by **Yangshun Tay (ex-Meta Staff Engineer)** — creator of Blind 75 & Grind 75.
 
